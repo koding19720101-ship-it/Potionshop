@@ -1,0 +1,6 @@
+{
+  "name": "엉망진창 포션 가게",
+  "description": "귀여운 물리엔진과 함께 다양한 재료를 빻고 끓여 나만의 물약을 만들고 손님에게 판매하는 혼돈의 포션 상점 시뮬레이션 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
